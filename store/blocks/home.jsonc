@@ -33,7 +33,7 @@
   },
   "image#desktop": {
     "props": {
-      "max-width": "100%",
+      "maxWidth": "100%",
       "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Desktop.jpg?q=1",
       "link": {
         "url": "/small-appliances/coffee-makers"
@@ -44,7 +44,7 @@
   
   "image#mobile": {
     "props": {
-      "max-width": "100%",
+      "maxWidth": "100%",
       "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1",
       "link": {
         "url": "/small-appliances/coffee-makers"
